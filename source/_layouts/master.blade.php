@@ -30,7 +30,7 @@
         @component('_partials.footer')
         @endcomponent
 
-        <script src="/assets/js/main.js" charset="utf-8" defer></script>
+        <script src="/assets/js/main.js" defer></script>
 
     </body>
 </html>
