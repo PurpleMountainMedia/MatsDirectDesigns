@@ -4,7 +4,7 @@ slug: tatami-mma-mats
 title: Tatami MMA Interlocking Puzzle Mat Tiles
 seo_title: Products | Tatami MMA Interlocking Puzzle Mat Tiles
 seo_description: Tatami MMA interlocking puzzle mat tiles. Basic & competition 22mm, 35mm & 40/50mm tiles in various colour combinations
-seo_keywords: mats, karate, fighting mats
+seo_keywords: floor mats, mats, karate, fighting mats, mma mats
 author: Keith Damiani
 date: 2017-03-23
 section: content
