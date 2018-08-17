@@ -11,7 +11,7 @@
       "@type": "Product",
       "name": "{{ $page->title }}",
       "image": [
-        "https://matsdirect.p-mountain-media.com/assets/img/md6006-suresport-mma-tatami-professional-puzzle-mats.jpg",
+        "https://matsdirect.p-mountain-media.com/assets/img/md6006-suresport-mma-tatami-professional-puzzle-mats.jpg"
        ],
       "description": "{{ $page->seo_description }}",
       "brand": {
