@@ -1,3 +1,8 @@
+<div class="bg-light py-2 text-center">
+  <i class="fas fa-phone-square"></i> <a href="tel:+44 (0) 161 7976 785">+44 (0) 161 7976 785</a> |
+  <i class="fas fa-envelope"></i> <a href="mailto:info@matsdirect.co.uk">info@matsdirect.co.uk</a> 
+</div>
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <a class="navbar-brand" href="#">MatsDirect</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

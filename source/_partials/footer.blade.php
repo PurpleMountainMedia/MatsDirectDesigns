@@ -3,13 +3,13 @@
     <div class="container">
       <div class="row text-light">
         <div class="col-md-4">
-          <h4 class="mb-5">Site Navigation</h4>
+          <h4 class="mb-3">Site Navigation</h4>
 
           <ul class="nav flex-column">
             <li class="nav-item">
               <a class="nav-link text-light" href="#">Home</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item bg-secondary">
               <a class="nav-link text-light" href="#">Products</a>
             </li>
             <li class="nav-item">
