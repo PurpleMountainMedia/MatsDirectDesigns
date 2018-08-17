@@ -6,19 +6,19 @@
 
 @push('schema')
   <script type="application/ld+json">
-  {
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "{{ $page->title }}",
-    "image": [
-      "https://matsdirect.p-mountain-media.com/assets/img/md6007-suresportmma-tatami-intermediate-puzzle-mats.jpg",
-     ],
-    "description": "{{ $page->seo_description }}",
-    "brand": {
-      "@type": "Thing",
-      "name": "Mats Direct"
-    },
-  }
+    {
+      "@context": "http://schema.org/",
+      "@type": "Product",
+      "name": "{{ $page->title }}",
+      "image": [
+        "https://matsdirect.p-mountain-media.com/assets/img/md6007-suresportmma-tatami-intermediate-puzzle-mats.jpg",
+       ],
+      "description": "{{ $page->seo_description }}",
+      "brand": {
+        "@type": "Thing",
+        "name": "Mats Direct"
+      }
+    }
   </script>
 @endpush
 

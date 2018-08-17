@@ -26,9 +26,11 @@
         <link rel="shortcut icon" href="{{ $page->getUrl() }}/assets/img/favicon.png">
         <link rel="stylesheet" href="/assets/css/main.css">
 
-        @stack('schema')
     </head>
     <body>
+
+        @stack('schema')
+
 
         @component('_partials.main-nav')
         @endcomponent
