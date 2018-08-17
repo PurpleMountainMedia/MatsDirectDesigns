@@ -1,6 +1,6 @@
 <div class="bg-light py-2 text-center">
-  <i class="fas fa-phone-square"></i> <a href="tel:+44 (0) 161 7976 785">+44 (0) 161 7976 785</a> |
-  <i class="fas fa-envelope"></i> <a href="mailto:info@matsdirect.co.uk">info@matsdirect.co.uk</a> 
+  <i class="fas fa-phone-square"></i> <a href="tel:01617976785">+44 (0) 161 7976 785</a> |
+  <i class="fas fa-envelope"></i> <a href="mailto:info@matsdirect.co.uk">info@matsdirect.co.uk</a>
 </div>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
@@ -33,10 +33,10 @@
       </li>
 
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" title="Mat Product Sectors" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" title="Mat Product Sectors" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Product Sectors
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
           <a class="dropdown-item" title="Mats for Healthcare" href="#">Healthcare</a>
           <a class="dropdown-item" title="Mats for Commercial" href="#">Commercial</a>
           <a class="dropdown-item" title="Mats for Leisure" href="#">Leisure</a>
