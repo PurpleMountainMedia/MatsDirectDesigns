@@ -4,6 +4,24 @@
 @push('description'){{ $page->seo_description }}@endpush
 @push('keywords'){{ $page->seo_keywords }}@endpush
 
+@push('schema')
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "{{ $page->title }}",
+    "image": [
+      "https://matsdirect.p-mountain-media.com/assets/img/md6007-suresportmma-tatami-intermediate-puzzle-mats.jpg",
+     ],
+    "description": "{{ $page->seo_description }}",
+    "brand": {
+      "@type": "Thing",
+      "name": "Mats Direct"
+    },
+  }
+  </script>
+@endpush
+
 @section('body')
 
   <div class="container my-4 py-4 pb-5">
