@@ -9,7 +9,7 @@
   <div class="container my-4 py-4 pb-5">
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="/products">Products</a></li>
+        <li class="breadcrumb-item"><a title="Mat Products" href="/products">Products</a></li>
         <li class="breadcrumb-item active" aria-current="page">{{ $page->title }}</li>
       </ol>
     </nav>

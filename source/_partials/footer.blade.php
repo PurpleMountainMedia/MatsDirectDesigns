@@ -7,16 +7,16 @@
 
           <ul class="nav flex-column">
             <li class="nav-item">
-              <a class="nav-link text-light" href="#">Home</a>
+              <a class="nav-link text-light" title="Home" href="#">Home</a>
             </li>
             <li class="nav-item bg-secondary">
-              <a class="nav-link text-light" href="#">Products</a>
+              <a class="nav-link text-light" title="Products" href="#">Products</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-light" href="#">Product Sectors</a>
+              <a class="nav-link text-light" title="Product Sectors" href="#">Product Sectors</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-light" href="#">Contact</a>
+              <a class="nav-link text-light" title="Contact Mats Direct" href="#">Contact</a>
             </li>
           </ul>
         </div>
