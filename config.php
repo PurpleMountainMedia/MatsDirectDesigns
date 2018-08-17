@@ -1,11 +1,14 @@
 <?php
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'http://www.matsdirect.test',
     'production' => false,
     'collections' => [
-        'products' => [
-            'path' => 'products/{range_slug}/{slug}'
+        // 'products' => [
+        //     'path' => 'products/{range_slug}/{slug}'
+        // ],
+        'ranges' => [
+            'path' => 'products/{slug}'
         ]
     ],
 ];
