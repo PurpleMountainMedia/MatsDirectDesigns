@@ -15,7 +15,7 @@
     </nav>
 
     <h1 class="mt-5">{{ $page->title }}</h1>
-    <h4>{{ $page->exerpt }}</h4>
+    <h2 class="range_subtitle">{{ $page->exerpt }}</h2>
   </div>
 
   <div class="container-fluid bg-secondary py-5">

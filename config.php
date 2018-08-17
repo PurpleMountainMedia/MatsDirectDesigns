@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'baseUrl' => 'http://www.matsdirect.test',
-    'production' => false,
+    'baseUrl' => 'https://matsdirect.p-mountain-media.com',
+    'production' => true,
     'collections' => [
         // 'products' => [
         //     'path' => 'products/{range_slug}/{slug}'

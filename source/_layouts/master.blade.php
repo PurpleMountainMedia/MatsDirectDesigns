@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" prefix="og: http://ogp.me/ns#">
     <head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +8,13 @@
         <title>Mats Direct | @stack('title')</title>
         <meta name="description" content="@stack('description')">
         <meta name="keywords" content="@stack('keywords')">
+        <link rel="canonical" href="{{ $page->getUrl() }}">
         <meta name="author" content="Mats Direct - www.matsdirect.co.uk">
+
+        {{-- Twitter  --}}
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@matsdirect" />
+        <meta name="twitter:creator" content="@matsdirect" />
 
         {{-- OG --}}
         <meta property="og:title" content="Mats Direct | @stack('title')" />

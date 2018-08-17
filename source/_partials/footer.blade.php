@@ -2,7 +2,7 @@
   <div class="mt-5 py-5 bg-primary border-top border-secondary">
     <div class="container">
       <div class="row text-light">
-        <div class="col-md-4">
+        <div class="col-md-4 border-right border-light px-3">
           <h4 class="mb-3">Site Navigation</h4>
 
           <ul class="nav flex-column">
@@ -21,8 +21,7 @@
           </ul>
         </div>
 
-        <div class="col-md-4">
-
+        <div class="col-md-4 border-right border-light px-3">
           <h4 class="mb-3">Contact Us</h4>
 
           <address>
@@ -30,14 +29,25 @@
             <p><strong>P:</strong> +44 (0) 161 7976 785</p>
             <p><strong>E:</strong> info@matsdirect.co.uk</p>
           </address>
-
         </div>
 
-        <div class="col-md-3">
-
+        <div class="col-md-3 px-3">
           <h4 class="mb-3">Follow Us</h4>
-
-          <i class="fab fa-twitter-square fa-2x"></i>
+          <a href="#" title="Mats Direct Twitter" class="text-light">
+            <i class="fab fa-twitter-square fa-2x"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid py-4 bg-secondary">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <p class="text-light">Copyright © {{ date("Y") }} MatsDirect UK LTD</p>
+        </div>
+        <div class="col">
+          <p class="text-light text-right">Website by Really Simple Media</p>
         </div>
       </div>
     </div>
