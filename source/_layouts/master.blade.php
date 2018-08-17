@@ -22,8 +22,8 @@
         <meta property="og:url" content="{{ $page->getUrl() }}" />
         <meta property="og:image" content="{{ $page->getUrl() }}/assets/img/favicon.png" />
 
-        <link rel="icon" href="{{ $page->getUrl() }}/assets/img/favicon.png">
-        <link rel="shortcut icon" href="{{ $page->getUrl() }}/assets/img/favicon.png">
+        <link rel="icon" href="/assets/img/favicon.png">
+        <link rel="shortcut icon" href="/assets/img/favicon.png">
         <link rel="stylesheet" href="/assets/css/main.css">
 
     </head>
